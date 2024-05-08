@@ -1,50 +1,31 @@
 <div align="center">
-  <a href="https://github.com/full2null">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=Hi%20there%21&fontColor=BB2649&fontAlignY=65">
+  <a>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Hi%20there%21&fontColor=1F6FEB&fontSize=90&fontAlignY=60">
   </a>
 
-  <h3>📚 Tech Stack 📚</h3>
+  <h3>Tech Stack</h3>
   <p>
-    <a href="https://github.com/full2null?tab=repositories&language=python">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+    <a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     </a>
-    <a href="https://github.com/search?l=&q=user%3Afull2null+fastapi+language%3APython&type=Code">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+    <a>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
     </a>
-    <a href="https://github.com/full2null?tab=repositories&language=html">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-    </a>
-    <a href="https://github.com/full2null?tab=repositories&language=css">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+    <a>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
     </a>
   </p>
 
-  <h3>🛠 Tools 🛠</h3>
+  <h3>Contact Me</h3>
   <p>
-    <a href="https://code.visualstudio.com">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+    <a href="https://velog.io/@full2null">
+      <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
     </a>
-    <a href="https://github.com">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-    </a>
-    <a href="https://aka.ms/terminal">
-      <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white">
-    </a>
-    <a href="https://git-scm.com">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-    </a>
-  </p>
-
-  <h3>💖 Contact Me 💖</h3>
-  <p>
     <a href="https://www.instagram.com/mini_mini_joon">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
     </a>
     <a href="https://discord.com/users/802084252211740692">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-    </a>
-    <a href="mailto:mg7441081@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
     </a>
   </p>
 </div>
